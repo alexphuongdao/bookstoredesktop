@@ -1,0 +1,10 @@
+.venv/
+bookstore.db
+__pycache__/
+*.pyc
+venv/
+env/
+bills/
+backend/config.py
+backend/__pycache__/
+instruction.md
