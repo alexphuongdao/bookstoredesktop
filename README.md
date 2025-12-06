@@ -37,7 +37,7 @@ source .venv/bin/activate
 python -m src.client.gui
 ```
 
-## Features Implemented (per instruction.md)
+## Features Implemented (based on the instrucntion I was given in class)
 
 ✅ **FR1** — User registration & login (secure password hashing with bcrypt)  
 ✅ **FR2** — Book search by title/author, display with prices  
